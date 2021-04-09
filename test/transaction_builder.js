@@ -4,7 +4,7 @@ var assert = require('assert')
 var baddress = require('../src/address')
 var bscript = require('../src/script')
 var btemplates = require('../src/templates')
-var ops = require('bitcoincash-ops')
+var ops = require('@tatumio/bitcoincash-ops')
 
 var BigInteger = require('bigi')
 var ECPair = require('../src/ecpair')

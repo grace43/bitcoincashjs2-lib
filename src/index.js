@@ -18,6 +18,6 @@ module.exports = {
   address: require('./address'),
   crypto: require('./crypto'),
   networks: require('./networks'),
-  opcodes: require('bitcoincash-ops'),
+  opcodes: require('@tatumio/bitcoincash-ops'),
   script: script
 }

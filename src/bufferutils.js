@@ -1,4 +1,4 @@
-var pushdata = require('pushdata-bitcoin')
+var pushdata = require('@tatumio/pushdata-bitcoin')
 var varuint = require('varuint-bitcoin')
 
 // https://github.com/feross/buffer/blob/master/index.js#L1127

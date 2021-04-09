@@ -1,12 +1,12 @@
 var Buffer = require("safe-buffer").Buffer;
 var bip66 = require("bip66");
-var pushdata = require("pushdata-bitcoin");
+var pushdata = require("@tatumio/pushdata-bitcoin");
 var typeforce = require("typeforce");
 var types = require("./types");
 var scriptNumber = require("./script_number");
 
-var OPS = require("bitcoincash-ops");
-var REVERSE_OPS = require("bitcoincash-ops/map");
+var OPS = require("@tatumio/bitcoincash-ops");
+var REVERSE_OPS = require("@tatumio/bitcoincash-ops/map");
 var OP_INT_BASE = OPS.OP_RESERVED; // OP_1 - 1
 
 function isOPInt(value) {
