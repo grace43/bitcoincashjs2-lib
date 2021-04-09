@@ -1,6 +1,6 @@
 {
   "name": "@tatumio/bitcoincashjs2-lib",
-  "version": "4.1.0",
+  "version": "4.1.1",
   "description": "Client-side Bitcoin JavaScript library",
   "main": "./src/index.js",
   "engines": {
@@ -31,7 +31,7 @@
   ],
   "dependencies": {
     "@tatumio/bitcoincash-ops": "2.0.0",
-    "@tatumio/pushdata-bitcoin": "1.2.1",
+    "@tatumio/pushdata-bitcoin": "1.2.2",
     "bech32": "^1.1.2",
     "bigi": "^1.4.0",
     "bip66": "^1.1.0",
