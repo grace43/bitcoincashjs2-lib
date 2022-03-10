@@ -1,5 +1,3 @@
-# BitcoinCashJS (bitcoincashjs-lib)
+# DEPRECATED: BitcoinCashJS (bitcoincashjs-lib)
 
-Fork of the amazing [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib). 
-
-Bitcoincashjs2-lib is deprecated.
+This project has reached the end of its development because of it being a fork of [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib). 
